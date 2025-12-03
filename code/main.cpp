@@ -2,6 +2,7 @@
 
 int main() {
     std::cout << "Hello world!";
+    std::cout << "from main";
     std::cout << "from feature-a";
     return 0;
 }
